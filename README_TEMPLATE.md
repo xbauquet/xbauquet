@@ -17,11 +17,11 @@ echo "My top song"
 ```
 
 <a style="display: inline-block; vertical-align: middle;" href="https://open.spotify.com/track/1HZoHnORADtuEfe9O4ldQH?si=a9b34be0d40d4023">
-    <img src=https://i.scdn.co/image/ab67616d00001e0295605660a166c33bbf6d4a25 width="60px" style="border-radius: 30px">
+    <img src={{MUSIC_IMAGE_URL}} width="60px" style="border-radius: 30px">
 </a>
 <div style="display: inline-block; vertical-align: middle;">
-    <span style="font-weight: bold">Endurtaka Mig</span><br>
-    <i>Daði Freyr</i>
+    <span style="font-weight: bold">{{MUSIC_NAME}}</span><br>
+    <i>{{MUSIC_ARTIST}}</i>
 </div>
 
 </div>
