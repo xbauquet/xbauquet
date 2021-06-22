@@ -9,15 +9,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
+
     - name: Run script
       env:
         SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
         SPOTIFY_CLIENT_64: ${{ secrets.SPOTIFY_CLIENT_64 }}
       run: ./scripts/spotify.sh
-    - name: Publish
-      run: |
-        git config --global user.name Xavier Bauquet
-        git config --global user.email xavier.bauquet@gmail.com
-        git add .
-        git commit -m "feat: update top song in README"
-        git push origin master
+
+    - name: Commit & Push changes
+      uses: actions-js/push@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: main
+        message: "feat: update top song in README"
+        author_email: xavier.bauquet@gmail.com
+        author_name: "Xavier Bauquet"

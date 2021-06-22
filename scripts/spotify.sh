@@ -11,7 +11,6 @@ body='{
 }'
 response=$(curl -XPOST -d grant_type=$grant_type -d refresh_token=$refresh_token -H "Authorization: Basic $client64" $url)
 token=$(echo $response | sed "s/{.*\"access_token\":\"\([^\"]*\).*}/\1/g")
-echo $token
 
 url="https://api.spotify.com/v1/me/top/tracks?limit=1&offset=0&time_range=short_term"
 response=$(curl -H "Authorization: Bearer $token" $url | jq '{name: .items[0].name, artist: .items[0].artists[0].name, album: .items[0].album.images[1].url}')
