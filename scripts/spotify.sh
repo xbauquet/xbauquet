@@ -2,10 +2,8 @@
 
 url="https://accounts.spotify.com/api/token"
 grant_type="refresh_token"
-refresh_token="AQBUVW-T4gD31lasKXHC8mBv8clizdmLpkjf1TZGzqaD5_je6R-RJhyRXhgj_BBLUCM2N3KnXxUEwMijq84HCxji5oFmDzKea2Okl0YodB3Azc6ipMcwJMwWuNHqwciw35w"
-clientId="9426af28a1b44e1b985fbe5450660fbb"
-clientSecret="38e54b55a26e4dc0a82c1da5ae4faa2f"
-client64="OTQyNmFmMjhhMWI0NGUxYjk4NWZiZTU0NTA2NjBmYmI6MzhlNTRiNTVhMjZlNGRjMGE4MmMxZGE1YWU0ZmFhMmY="
+refresh_token=$SPOTIFY_REFRESH_TOKEN
+client64=$SPOTIFY_CLIENT_64
 
 body='{
    "grant_type":"'$grant_type'",

@@ -10,6 +10,9 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: Run script
+      env:
+        SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        SPOTIFY_CLIENT_64: ${{ secrets.SPOTIFY_CLIENT_64 }}
       run: ./scripts/spotify.sh
     - name: Publish
       run: |
