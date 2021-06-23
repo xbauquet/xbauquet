@@ -37,10 +37,10 @@ echo "My top song"
 
 </div>
 <div align=center> 
-    <img src=null width="60px">
+    <img src=https://i.scdn.co/image/ab67616d00001e0295605660a166c33bbf6d4a25 width="60px">
     <div>
-        <b>null</b></br>
-        <i>null</i>
+        <b>Endurtaka Mig</b></br>
+        <i>Daði Freyr</i>
     </div>
 </div>
 
