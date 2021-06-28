@@ -1,34 +1,57 @@
 <table>
 <tbody>
 <tr>
-<td colspan="2">
+<td colspan="4">
     <code>
     <img style="margin-top: 30px" src="https://media-exp1.licdn.com/dms/image/C4E16AQEwKGU-QbqbCA/profile-displaybackgroundimage-shrink_350_1400/0/1516879220840?e=1628121600&v=beta&t=-DfOh36b11qXx1ngxfI-k0HNtsB3nZQipCE-_NLjp_M" alt="" width="100%">
     </code>
+    <h1 align=center>
+    Hi there 
+    <img src="https://raw.githubusercontent.com/xbauquet/xbauquet/main/assets/hi.gif" width="30px">
+    </h1>
 </td>
 </tr>
 
-<tr></tr><!-- Description  -->
+<tr></tr><!-- Mars forecasts  -->
 
 <tr>
-<td colspan="2">
-
-<h1 align=center>
-Hi there 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-</h1>
+<td colspan="4">
 
 <div align=center>
-I'm Xavier, I love coding and I cannot work without music.
+
+```shell
+echo "Mars weather"
+```
+
 </div>
 
+<table align=center>
+<tr><td rowspan="16" colspan="2" align="center">
+<img src="https://raw.githubusercontent.com/xbauquet/Rover/master/docs/resources/rems-top.jpg" width="500px">
+</td></tr>
+<tr></tr>
+<tr><td colspan="2" align="center">{{MARS_ATMO_OPACITY}}</td></tr>
+<tr></tr>
+<tr><td>{{MARS_DATE}}</td><td>Sol {{MARS_SOL}}</td></tr>
+<tr></tr>
+<tr><td>Air Temperature</td><td>{{MARS_MIN_TEMP}}°C {{MARS_MAX_TEMP}}°C</td></tr>
+<tr></tr>
+<tr><td>Ground Temperature</td><td>{{MARS_MIN_GROUND_TEMP}}°C {{MARS_MAX_GROUND_TEMP}}°C</td></tr>
+<tr></tr>
+<tr><td>Pressure</td><td>{{MARS_PRESSURE}} Pa</td></tr>
+<tr></tr>
+<tr><td>Sunrise</td><td>{{MARS_SUNRISE}}</td></tr>
+<tr></tr>
+<tr><td>Sunset</td><td>{{MARS_SUNSET}}</td></tr>
+
+</table>
 </td>
-</tr>
+</tr>    
 
 <tr></tr><!-- Hobbies  -->
 
 <tr>
-<td>
+<td colspan="2">
 <div align=center>
 
 ```shell
@@ -37,7 +60,7 @@ echo "My top song"
 
 </div>
 <div align=center> 
-    <img src={{MUSIC_IMAGE_URL}} width="60px">
+    <img src="{{MUSIC_IMAGE_URL}}" width="60px">
     <div>
         <b>{{MUSIC_NAME}}</b></br>
         <i>{{MUSIC_ARTIST}}</i>
@@ -45,7 +68,7 @@ echo "My top song"
 </div>
 
 </td>
-<td>
+<td colspan="2">
 <div align=center>
 
 ```shell
@@ -68,7 +91,7 @@ echo "My interests"
 <tr></tr><!-- Github  -->
 
 <tr>
-<td colspan="2">    
+<td colspan="4">    
 <div align=center>
 
 
@@ -87,7 +110,7 @@ echo "My Github stats"
 <tr></tr><!-- Octocat -->
 
 <tr>
-<td colspan="2">    
+<td colspan="4">    
 <div align=center>
 
 ```shell

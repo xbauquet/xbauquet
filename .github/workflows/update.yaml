@@ -1,26 +1,37 @@
-name: Spotify update
+name: Readme update
 on:
   schedule:
   - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
-  spotify:
+  update:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
 
-    - name: Run script
+    - name: Copy template
+      run: cp README_TEMPLATE.md README_NEW.md
+
+    - name: Spotify
       env:
         SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
         SPOTIFY_CLIENT_64: ${{ secrets.SPOTIFY_CLIENT_64 }}
       run: ./scripts/spotify.sh
+
+    - name: Rover
+      env:
+        ROVER_URL: ${{ secrets.ROVER_URL }}
+      run: ./scripts/rover.sh
+
+    - name: Replace README
+      run: mv -f README_NEW.md README.md
 
     - name: Commit & Push changes
       uses: actions-js/push@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: main
-        message: "feat: update top song in README"
+        message: "readme: update top song and mars weather"
         author_email: xavier.bauquet@gmail.com
         author_name: "Xavier Bauquet"
