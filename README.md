@@ -27,16 +27,16 @@ echo "Mars weather"
 
 <table align=center>
 <tr><td rowspan="16" colspan="2" align="center">
-<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1622654213885.png" width="200px">
+<img src="https://raw.githubusercontent.com/xbauquet/Rover/master/docs/resources/rems-top.jpg" width="500px">
 </td></tr>
 <tr></tr>
-<tr><td colspan="2" align="center" >Sunny</td></tr>
+<tr><td colspan="2" align="center">Sunny</td></tr>
 <tr></tr>
 <tr><td>2021-06-16</td><td>Sol 3150</td></tr>
 <tr></tr>
-<tr><td>Air Temperature</td><td>-26°C -78°C</td></tr>
+<tr><td>Air Temperature</td><td>-78°C -26°C</td></tr>
 <tr></tr>
-<tr><td>Ground Temperature</td><td>-12°C -81°C</td></tr>
+<tr><td>Ground Temperature</td><td>-81°C -12°C</td></tr>
 <tr></tr>
 <tr><td>Pressure</td><td>873 Pa</td></tr>
 <tr></tr>
@@ -60,7 +60,7 @@ echo "My top song"
 
 </div>
 <div align=center> 
-    <img src=https://i.scdn.co/image/ab67616d00001e0260cb9332e8c8c7d8e50854b3 width="60px">
+    <img src="https://i.scdn.co/image/ab67616d00001e0260cb9332e8c8c7d8e50854b3" width="60px">
     <div>
         <b>Love Story</b></br>
         <i>Taylor Swift</i>
@@ -117,6 +117,7 @@ echo "My Github stats"
 echo "My octocat"
 ```
 
+<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1622654213885.png" width="300px">
 
 </div>    
 </td>
