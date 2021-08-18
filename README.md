@@ -60,10 +60,10 @@ echo "My top song"
 
 </div>
 <div align=center> 
-    <img src="https://i.scdn.co/image/ab67616d00001e02ddc54feece71dda4290d0579" width="60px">
+    <img src="https://i.scdn.co/image/ab67616d00001e0250170c06ed29988d5f8ef79e" width="60px">
     <div>
-        <b>Lay All Your Love On Me - From 'Mamma Mia!' Original Motion Picture Soundtrack</b></br>
-        <i>Dominic Cooper</i>
+        <b>Waf (feat. Simone {{MUSIC_NAME}} Jean-Marc)</b></br>
+        <i>Julien Doré</i>
     </div>
 </div>
 
