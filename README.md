@@ -60,10 +60,10 @@ echo "My top song"
 
 </div>
 <div align=center> 
-    <img src="https://i.scdn.co/image/ab67616d00001e0250170c06ed29988d5f8ef79e" width="60px">
+    <img src="https://i.scdn.co/image/ab67616d00001e0295605660a166c33bbf6d4a25" width="60px">
     <div>
-        <b>Waf (feat. Simone {{MUSIC_NAME}} Jean-Marc)</b></br>
-        <i>Julien Doré</i>
+        <b>Endurtaka Mig</b></br>
+        <i>Daði Freyr</i>
     </div>
 </div>
 
