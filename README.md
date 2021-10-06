@@ -60,10 +60,10 @@ echo "My top song"
 
 </div>
 <div align=center> 
-    <img src="https://i.scdn.co/image/ab67616d00001e027da123c944790bfab54b2522" width="60px">
+    <img src="https://i.scdn.co/image/ab67616d00001e022f5b249add2cebf2923f8c16" width="60px">
     <div>
-        <b>MANiCURE</b></br>
-        <i>Lady Gaga</i>
+        <b>Monopolis - 2009 Remaster</b></br>
+        <i>France Gall</i>
     </div>
 </div>
 
