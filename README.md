@@ -60,10 +60,10 @@ echo "My top song"
 
 </div>
 <div align=center> 
-    <img src="https://i.scdn.co/image/ab67616d00001e02c909d4e47de2ab0636f46d64" width="60px">
+    <img src="https://i.scdn.co/image/ab67616d00001e02519241bcfc352fc3eaaac5db" width="60px">
     <div>
-        <b>Teardrops On My Guitar - Radio Single Remix</b></br>
-        <i>Taylor Swift</i>
+        <b>Want to Want Me</b></br>
+        <i>Jason Derulo</i>
     </div>
 </div>
 
