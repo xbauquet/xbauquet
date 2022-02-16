@@ -60,10 +60,10 @@ echo "My top song"
 
 </div>
 <div align=center> 
-    <img src="https://i.scdn.co/image/ab67616d00001e02519241bcfc352fc3eaaac5db" width="60px">
+    <img src="https://i.scdn.co/image/ab67616d00001e024e31e0d38b89b8fb239d4fbf" width="60px">
     <div>
-        <b>Want to Want Me</b></br>
-        <i>Jason Derulo</i>
+        <b>Live While We're Young</b></br>
+        <i>One Direction</i>
     </div>
 </div>
 
