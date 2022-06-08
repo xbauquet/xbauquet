@@ -62,8 +62,8 @@ echo "My top song"
 <div align=center> 
     <img src="https://i.scdn.co/image/ab67616d00001e021828473d593f22288c795e5c" width="60px">
     <div>
-        <b>Whipped into Shape</b></br>
-        <i>'Legally Blonde' Ensemble</i>
+        <b>So Much Better</b></br>
+        <i>Laura Bell Bundy</i>
     </div>
 </div>
 
