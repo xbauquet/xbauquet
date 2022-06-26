@@ -60,10 +60,10 @@ echo "My top song"
 
 </div>
 <div align=center> 
-    <img src="https://i.scdn.co/image/ab67616d00001e021828473d593f22288c795e5c" width="60px">
+    <img src="https://i.scdn.co/image/ab67616d00001e0220d21e06061921f912ba873a" width="60px">
     <div>
-        <b>Ireland</b></br>
-        <i>Orfeh</i>
+        <b>Перемирие</b></br>
+        <i>VIA Gra</i>
     </div>
 </div>
 
