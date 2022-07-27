@@ -30,19 +30,19 @@ echo "Mars weather"
 <img src="https://raw.githubusercontent.com/xbauquet/Rover/master/docs/resources/rems-top.jpg" width="500px">
 </td></tr>
 <tr></tr>
-<tr><td colspan="2" align="center"></td></tr>
+<tr><td colspan="2" align="center">Sunny</td></tr>
 <tr></tr>
-<tr><td></td><td>Sol </td></tr>
+<tr><td>2022-07-20</td><td>Sol 3538</td></tr>
 <tr></tr>
-<tr><td>Air Temperature</td><td>°C °C</td></tr>
+<tr><td>Air Temperature</td><td>-69°C -3°C</td></tr>
 <tr></tr>
-<tr><td>Ground Temperature</td><td>°C °C</td></tr>
+<tr><td>Ground Temperature</td><td>-81°C 10°C</td></tr>
 <tr></tr>
-<tr><td>Pressure</td><td> Pa</td></tr>
+<tr><td>Pressure</td><td>866 Pa</td></tr>
 <tr></tr>
-<tr><td>Sunrise</td><td></td></tr>
+<tr><td>Sunrise</td><td>06:03</td></tr>
 <tr></tr>
-<tr><td>Sunset</td><td></td></tr>
+<tr><td>Sunset</td><td>18:21</td></tr>
 
 </table>
 </td>
