@@ -32,17 +32,17 @@ echo "Mars weather"
 <tr></tr>
 <tr><td colspan="2" align="center">Sunny</td></tr>
 <tr></tr>
-<tr><td>2022-07-20</td><td>Sol 3538</td></tr>
+<tr><td>2022-07-25</td><td>Sol 3543</td></tr>
 <tr></tr>
-<tr><td>Air Temperature</td><td>-69°C -3°C</td></tr>
+<tr><td>Air Temperature</td><td>-69°C 0°C</td></tr>
 <tr></tr>
-<tr><td>Ground Temperature</td><td>-81°C 10°C</td></tr>
+<tr><td>Ground Temperature</td><td>-78°C 10°C</td></tr>
 <tr></tr>
 <tr><td>Pressure</td><td>866 Pa</td></tr>
 <tr></tr>
-<tr><td>Sunrise</td><td>06:03</td></tr>
+<tr><td>Sunrise</td><td>06:06</td></tr>
 <tr></tr>
-<tr><td>Sunset</td><td>18:21</td></tr>
+<tr><td>Sunset</td><td>18:24</td></tr>
 
 </table>
 </td>
