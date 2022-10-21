@@ -60,10 +60,10 @@ echo "My top song"
 
 </div>
 <div align=center> 
-    <img src="https://i.scdn.co/image/ab67616d00001e021828473d593f22288c795e5c" width="60px">
+    <img src="https://i.scdn.co/image/ab67616d00001e0250940f88c3318937eea33372" width="60px">
     <div>
-        <b>Serious</b></br>
-        <i>Laura Bell Bundy</i>
+        <b>Out Of Control</b></br>
+        <i>Pony Pony Run Run</i>
     </div>
 </div>
 
