@@ -60,10 +60,10 @@ echo "My top song"
 
 </div>
 <div align=center> 
-    <img src="https://i.scdn.co/image/ab67616d00001e0215c3e5b8ebd6e282604c7e6f" width="60px">
+    <img src="https://i.scdn.co/image/ab67616d00001e0295f754318336a07e85ec59bc" width="60px">
     <div>
-        <b>{{MUSIC_NAME}}</b></br>
-        <i>Jon McLaughlin</i>
+        <b>illicit affairs</b></br>
+        <i>Taylor Swift</i>
     </div>
 </div>
 
