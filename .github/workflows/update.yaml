@@ -19,11 +19,6 @@ jobs:
         SPOTIFY_CLIENT_64: ${{ secrets.SPOTIFY_CLIENT_64 }}
       run: ./scripts/spotify.sh
 
-    - name: Rover
-      env:
-        ROVER_URL: ${{ secrets.ROVER_URL }}
-      run: ./scripts/rover.sh
-
     - name: Replace README
       run: mv -f README_NEW.md README.md
 
@@ -32,6 +27,6 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: main
-        message: "readme: update top song and mars weather"
+        message: "readme: update top song"
         author_email: xavier.bauquet@gmail.com
         author_name: "Xavier Bauquet"
