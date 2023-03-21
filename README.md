@@ -60,9 +60,9 @@ echo "My top song"
 
 </div>
 <div align=center> 
-    <img src="https://i.scdn.co/image/ab67616d00001e0252b2a3824413eefe9e33817a" width="60px">
+    <img src="https://i.scdn.co/image/ab67616d00001e02d0eae3c1661a96570f0ca7bd" width="60px">
     <div>
-        <b>Out Of The Woods</b></br>
+        <b>Long Live</b></br>
         <i>Taylor Swift</i>
     </div>
 </div>
