@@ -16,10 +16,10 @@ echo "My top song"
 
 </div>
 <div align=center> 
-    <img src="https://i.scdn.co/image/ab67616d00001e02e58c17cc88793c080806cf9d" width="60px">
+    <img src="https://i.scdn.co/image/ab67616d00001e021828473d593f22288c795e5c" width="60px">
     <div>
-        <b>Time Warp</b></br>
-        <i>Glee Cast</i>
+        <b>Legally Blonde</b></br>
+        <i>Christian Borle</i>
     </div>
 </div>
 </div>
