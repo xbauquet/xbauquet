@@ -16,10 +16,10 @@ echo "My top song"
 
 </div>
 <div align=center> 
-    <img src="https://i.scdn.co/image/ab67616d00001e021828473d593f22288c795e5c" width="60px">
+    <img src="https://i.scdn.co/image/ab67616d00001e02da5d5aeeabacacc1263c0f4b" width="60px">
     <div>
-        <b>Omigod You Guys</b></br>
-        <i>Annaleigh Ashford</i>
+        <b>I Did Something Bad</b></br>
+        <i>Taylor Swift</i>
     </div>
 </div>
 </div>
