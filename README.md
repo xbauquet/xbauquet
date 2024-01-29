@@ -16,7 +16,7 @@ echo "My top song"
 
 </div>
 <div align=center> 
-    <img src="https://i.scdn.co/image/ab67616d00001e02c52dc30772a1584aef6aa395" width="60px">
+    <img src="https://i.scdn.co/image/ab67616d00001e029b896bd7205f6e04051a12b1" width="60px">
     <div>
         <b>Maybe My Soulmate Died</b></br>
         <i>iamnotshane</i>
