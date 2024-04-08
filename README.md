@@ -16,10 +16,10 @@ echo "My top song"
 
 </div>
 <div align=center> 
-    <img src="https://i.scdn.co/image/ab67616d00001e02a22c3ea70efd4c80fc0d17cd" width="60px">
+    <img src="https://i.scdn.co/image/ab67616d00001e02554488d0c51967b1654d8ce5" width="60px">
     <div>
-        <b>Bound To You - Burlesque Original Motion Picture Soundtrack</b></br>
-        <i>Christina Aguilera</i>
+        <b>Already Home</b></br>
+        <i>A Great Big World</i>
     </div>
 </div>
 </div>
