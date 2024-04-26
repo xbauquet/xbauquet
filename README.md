@@ -16,10 +16,10 @@ echo "My top song"
 
 </div>
 <div align=center> 
-    <img src="https://i.scdn.co/image/ab67616d00001e02554488d0c51967b1654d8ce5" width="60px">
+    <img src="https://i.scdn.co/image/ab67616d00001e025076e4160d018e378f488c33" width="60px">
     <div>
-        <b>Already Home</b></br>
-        <i>A Great Big World</i>
+        <b>Fortnight (feat. Post Malone)</b></br>
+        <i>Taylor Swift</i>
     </div>
 </div>
 </div>
