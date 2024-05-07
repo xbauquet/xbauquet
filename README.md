@@ -18,7 +18,7 @@ echo "My top song"
 <div align=center> 
     <img src="https://i.scdn.co/image/ab67616d00001e025076e4160d018e378f488c33" width="60px">
     <div>
-        <b>Fortnight (feat. Post Malone)</b></br>
+        <b>Who’s Afraid of Little Old Me?</b></br>
         <i>Taylor Swift</i>
     </div>
 </div>
