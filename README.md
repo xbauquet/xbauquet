@@ -16,9 +16,9 @@ echo "My top song"
 
 </div>
 <div align=center> 
-    <img src="https://i.scdn.co/image/ab67616d00001e025076e4160d018e378f488c33" width="60px">
+    <img src="https://i.scdn.co/image/ab67616d00001e020b04da4f224b51ff86e0a481" width="60px">
     <div>
-        <b>Who’s Afraid of Little Old Me?</b></br>
+        <b>Long Live (Taylor's Version)</b></br>
         <i>Taylor Swift</i>
     </div>
 </div>
