@@ -16,10 +16,10 @@ echo "My top song"
 
 </div>
 <div align=center> 
-    <img src="https://i.scdn.co/image/ab67616d00001e0267ba84c79a28e584194c42d9" width="60px">
+    <img src="https://i.scdn.co/image/ab67616d00001e02216f9678ce5a8b6f26c6b473" width="60px">
     <div>
-        <b>Now You're Gone (feat. DJ Mental Theo's Bazzheadz) - Video Edit</b></br>
-        <i>Basshunter</i>
+        <b>You Raise Me Up</b></br>
+        <i>Josh Groban</i>
     </div>
 </div>
 </div>
