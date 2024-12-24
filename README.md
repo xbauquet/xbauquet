@@ -16,10 +16,10 @@ echo "My top song"
 
 </div>
 <div align=center> 
-    <img src="https://i.scdn.co/image/ab67616d00001e02da5d5aeeabacacc1263c0f4b" width="60px">
+    <img src="https://i.scdn.co/image/ab67616d00001e022c20ffc2c9c82c75e67fb006" width="60px">
     <div>
-        <b>...Ready For It?</b></br>
-        <i>Taylor Swift</i>
+        <b>Defying Gravity (Glee Cast Version) - Cover of Idina Menzel's Wicked</b></br>
+        <i>Glee Cast</i>
     </div>
 </div>
 </div>
