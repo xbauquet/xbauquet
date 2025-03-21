@@ -18,7 +18,7 @@ echo "My top song"
 <div align=center> 
     <img src="https://i.scdn.co/image/ab67616d00001e02cc04ff3e70e146ba9abacf40" width="60px">
     <div>
-        <b>Ghost Town</b></br>
+        <b>Beautiful Things</b></br>
         <i>Benson Boone</i>
     </div>
 </div>
