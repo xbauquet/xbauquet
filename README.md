@@ -16,10 +16,10 @@ echo "My top song"
 
 </div>
 <div align=center> 
-    <img src="https://i.scdn.co/image/ab67616d00001e0202c3c987f2bd911cc7800e78" width="60px">
+    <img src="https://i.scdn.co/image/ab67616d00001e025076e4160d018e378f488c33" width="60px">
     <div>
-        <b>Dance Before We Walk (From “The Idea of You”)</b></br>
-        <i>August Moon</i>
+        <b>I Can Do It With a Broken Heart</b></br>
+        <i>Taylor Swift</i>
     </div>
 </div>
 </div>
