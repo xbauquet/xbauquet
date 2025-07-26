@@ -18,7 +18,7 @@ echo "My top song"
 <div align=center> 
     <img src="https://i.scdn.co/image/ab67616d00001e02a48964b5d9a3d6968ae3e0de" width="60px">
     <div>
-        <b>Forever {{MUSIC_NAME}} Always (Piano Version) (Taylor’s Version)</b></br>
+        <b>Love Story (Taylor’s Version)</b></br>
         <i>Taylor Swift</i>
     </div>
 </div>
