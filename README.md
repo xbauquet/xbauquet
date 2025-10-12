@@ -16,7 +16,7 @@ echo "My top song"
 
 </div>
 <div align=center> 
-    <img src="https://i.scdn.co/image/ab67616d00001e027e0698e1398b6473de43f901" width="60px">
+    <img src="https://i.scdn.co/image/ab67616d00001e02d7812467811a7da6e6a44902" width="60px">
     <div>
         <b>Opalite</b></br>
         <i>Taylor Swift</i>
