@@ -16,10 +16,10 @@ echo "My top song"
 
 </div>
 <div align=center> 
-    <img src="https://i.scdn.co/image/ab67616d00001e022b4ab32536b1069206abea39" width="60px">
+    <img src="https://i.scdn.co/image/ab67616d00001e02eb3092620e6816700d502bb8" width="60px">
     <div>
-        <b>Good Girls (Bonus Track)</b></br>
-        <i>Cris Cab</i>
+        <b>In My Head</b></br>
+        <i>Jason Derulo</i>
     </div>
 </div>
 </div>
