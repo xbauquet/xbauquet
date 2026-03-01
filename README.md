@@ -16,10 +16,10 @@ echo "My top song"
 
 </div>
 <div align=center> 
-    <img src="https://i.scdn.co/image/ab67616d00001e02454bce6a548fd54e6915fbfe" width="60px">
+    <img src="https://i.scdn.co/image/ab67616d00001e0213683d4d0df2cbac744db268" width="60px">
     <div>
-        <b>Discurso Revoltado</b></br>
-        <i>Gabriel Diks</i>
+        <b>Love For The Weekend</b></br>
+        <i>Lucas Estrada</i>
     </div>
 </div>
 </div>
