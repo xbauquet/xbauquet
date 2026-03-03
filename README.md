@@ -16,10 +16,10 @@ echo "My top song"
 
 </div>
 <div align=center> 
-    <img src="https://i.scdn.co/image/ab67616d00001e02e691217483df8798445c82e2" width="60px">
+    <img src="https://i.scdn.co/image/ab67616d00001e02d1ab23495138ff8444c24b34" width="60px">
     <div>
-        <b>Just Dance</b></br>
-        <i>Lady Gaga</i>
+        <b>The Show Must Go On - Remastered 2011</b></br>
+        <i>Queen</i>
     </div>
 </div>
 </div>
