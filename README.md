@@ -16,10 +16,10 @@ echo "My top song"
 
 </div>
 <div align=center> 
-    <img src="https://i.scdn.co/image/ab67616d00001e022b16992e49be4a199e7dad2c" width="60px">
+    <img src="https://i.scdn.co/image/ab67616d00001e02a48964b5d9a3d6968ae3e0de" width="60px">
     <div>
-        <b>Grace Kelly - Acoustic</b></br>
-        <i>MIKA</i>
+        <b>Forever {{MUSIC_NAME}} Always (Piano Version) (Taylor’s Version)</b></br>
+        <i>Taylor Swift</i>
     </div>
 </div>
 </div>
